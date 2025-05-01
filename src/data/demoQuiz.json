@@ -1,0 +1,7 @@
+{
+  "quizId": "123456",
+  "questions": [
+    {"question": "Capital de Francia?", "options": ["París", "Madrid", "Roma", "Londres"], "answer": "París"},
+    {"question": "5+7=?", "options": ["10", "12", "13", "14"], "answer": "12"}
+  ]
+}
