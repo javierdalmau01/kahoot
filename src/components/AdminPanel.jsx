@@ -1,3 +1,3 @@
 export default function AdminPanel() {
-  return <div>AdminPanel Componente</div>
+  return <div>AdminPanel Componente operativo.</div>
 }

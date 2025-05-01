@@ -1,3 +1,3 @@
 export default function Ranking() {
-  return <div>Ranking Componente</div>
+  return <div>Ranking Componente operativo.</div>
 }

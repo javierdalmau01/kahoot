@@ -2,6 +2,14 @@
   "quizId": "123456",
   "questions": [
     {"question": "Capital de Francia?", "options": ["París", "Madrid", "Roma", "Londres"], "answer": "París"},
-    {"question": "5+7=?", "options": ["10", "12", "13", "14"], "answer": "12"}
+    {"question": "5+7=?", "options": ["10", "12", "13", "14"], "answer": "12"},
+    {"question": "Color del cielo?", "options": ["Azul", "Rojo", "Verde", "Amarillo"], "answer": "Azul"},
+    {"question": "Animal más grande?", "options": ["Ballena", "Elefante", "Jirafa", "Oso"], "answer": "Ballena"},
+    {"question": "Año actual?", "options": ["2023", "2024", "2025", "2026"], "answer": "2025"},
+    {"question": "2x3=?", "options": ["4", "5", "6", "7"], "answer": "6"},
+    {"question": "Capital de España?", "options": ["Barcelona", "Madrid", "Valencia", "Sevilla"], "answer": "Madrid"},
+    {"question": "Planeta rojo?", "options": ["Tierra", "Marte", "Júpiter", "Venus"], "answer": "Marte"},
+    {"question": "Idioma más hablado?", "options": ["Chino", "Inglés", "Español", "Hindi"], "answer": "Chino"},
+    {"question": "Cuántos días tiene un año?", "options": ["360", "365", "366", "364"], "answer": "365"}
   ]
 }
