@@ -1,3 +1,3 @@
 export default function MobileQuiz() {
-  return <div>MobileQuiz Componente operativo.</div>
+  return <div>MobileQuiz Componente listo para implementación.</div>
 }
